@@ -1,0 +1,16 @@
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\bin\Debug\net5.0\selectionStatments.exe
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\bin\Debug\net5.0\selectionStatments.deps.json
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\bin\Debug\net5.0\selectionStatments.runtimeconfig.json
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\bin\Debug\net5.0\selectionStatments.runtimeconfig.dev.json
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\bin\Debug\net5.0\selectionStatments.dll
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\bin\Debug\net5.0\selectionStatments.pdb
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.csproj.AssemblyReference.cache
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.AssemblyInfoInputs.cache
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.AssemblyInfo.cs
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.csproj.CoreCompileInputs.cache
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.dll
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\refint\selectionStatments.dll
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.pdb
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\selectionStatments.genruntimeconfig.cache
+C:\Users\vanam\Documents\repos\selectionStatments\selectionStatments\obj\Debug\net5.0\ref\selectionStatments.dll
